@@ -1,6 +1,6 @@
 # 3D LiDAR Mapping System
 
-![Product Image](path_to_image.jpg)
+![Product Image]([path_to_image.jpg](https://github.com/DinethPrabashana/3D-Lidar-Scanner/blob/main/Product%20view.png))
 
 ## Overview
 This project develops a 3D mapping system using the TFmini-S LiDAR sensor and an ATmega328P microcontroller. The system captures high-resolution spatial data, suitable for applications like autonomous navigation and environmental monitoring. The setup includes a stepper motor controlled by an A4988 driver for precise scanning.
